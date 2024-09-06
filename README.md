@@ -23,9 +23,7 @@
 
 
 <!--Intro start-->
-- 🔭 Trabajando con tecnologías como React, React Native, Node.js, MongoDB.
-
-- 🌱 Consulta sobre React, Node.js, MongoDB.
+- 🔭 Desarrollador FullStack.
 
 - 📫 Puedes contactarme fácilmente a través de mi correo electrónico: octaviodevtech@gmail.com.
 
