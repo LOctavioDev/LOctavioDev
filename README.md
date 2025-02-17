@@ -45,9 +45,8 @@ graph LR
   F --> N[Redis]
   A --> O[Clean Architecture]
   A --> P[RESTful APIs]
-  A --> Q[GraphQL]
-  O --> R[Separation of Concerns]
-  O --> S[Modularity]
+  O --> Q[Separation of Concerns]
+  O --> R[Modularity]
 ```
 
 
