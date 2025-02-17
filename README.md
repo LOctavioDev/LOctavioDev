@@ -36,6 +36,8 @@ Soy ingeniero de software con enfoque en desarrollo backend, trabajando principa
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOctavioDev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LOctavioDev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/LOctavioDev/backend-residencias" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOctavioDev&repo=backend-residencias&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LOctavioDev/test-api-fastapi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOctavioDev&repo=test-api-fastapi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
