@@ -28,6 +28,7 @@ Soy ingeniero de software con enfoque en desarrollo backend, trabajando principa
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
+``` mermaid
 graph LR
   A[Backend Development] --> B(Node.js)
   A --> C(TypeScript)
