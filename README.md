@@ -30,6 +30,12 @@ Soy ingeniero de software con enfoque en desarrollo backend, trabajando principa
 
 <a href="https://github.com/LOctavioDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOctavioDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LOctavioDev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="OctaDev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOctavioDev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/LOctavioDev/backend-residencias" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOctavioDev&repo=backend-residencias&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LOctavioDev/test-api-fastapi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOctavioDev&repo=test-api-fastapi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
