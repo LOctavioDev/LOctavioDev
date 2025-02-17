@@ -30,24 +30,25 @@ Soy ingeniero de software con enfoque en desarrollo backend, trabajando principa
 
 ``` mermaid
 graph LR
-  A[Backend Development] --> B(Node.js)
-  A --> C(TypeScript)
-  A --> D(Express)
-  A --> E(API Design)
-  A --> F(Database Management)
-  B --> G(MVC Pattern)
-  B --> H(Rate Limiting with Redis)
-  E --> I(Authentication)
-  E --> J(Security (OAuth, JWT))
-  F --> K(MySQL)
-  F --> L(MongoDB)
-  F --> M(ORM/ODM)
-  F --> N(Redis)
-  A --> O(Clean Architecture)
-  A --> P(RESTful APIs)
-  A --> Q(GraphQL)
-  O --> R(Separation of Concerns)
-  O --> S(Modularity)
+  A[Backend Development] --> B[Node.js]
+  A --> C[TypeScript]
+  A --> D[Express]
+  A --> E[API Design]
+  A --> F[Database Management]
+  B --> G[MVC Pattern]
+  B --> H[Rate Limiting with Redis]
+  E --> I[Authentication]
+  E --> J[Security: OAuth, JWT]
+  F --> K[MySQL]
+  F --> L[MongoDB]
+  F --> M[ORM/ODM]
+  F --> N[Redis]
+  A --> O[Clean Architecture]
+  A --> P[RESTful APIs]
+  A --> Q[GraphQL]
+  O --> R[Separation of Concerns]
+  O --> S[Modularity]
+```
 
 
 <b>Top Repositories</b>
