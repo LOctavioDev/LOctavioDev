@@ -32,7 +32,7 @@ portfolio: https://oct-portfolio.vercel.app/
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,7 +66,7 @@ portfolio: https://oct-portfolio.vercel.app/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏗️ Architecture & Expertise
+## Architecture & Expertise
 
 ```mermaid
 graph LR
@@ -98,7 +98,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -134,7 +134,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📌 Top Repositories
+## Top Repositories
 
 <div align="center">
 
@@ -151,7 +151,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
