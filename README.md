@@ -109,14 +109,14 @@ graph LR
 
 <!-- GitHub Stats -->
 <a href="https://github.com/LOctavioDev">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LOctavioDev&show_icons=true&count_private=true&hide_border=true&title_color=00B3FF&icon_color=00B3FF&text_color=c9d1d9&bg_color=0D1117&rank_icon=github" alt="LOctavioDev GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=LOctavioDev&show_icons=true&count_private=true&hide_border=true&title_color=00B3FF&icon_color=00B3FF&text_color=c9d1d9&bg_color=0D1117&rank_icon=github" alt="LOctavioDev GitHub Stats" />
 </a>
 
 <br/>
 
 <!-- Top Languages -->
 <a href="https://github.com/LOctavioDev">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOctavioDev&layout=compact&hide_border=true&title_color=00B3FF&text_color=00B3FF&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LOctavioDev&layout=compact&hide_border=true&title_color=00B3FF&text_color=00B3FF&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
@@ -139,10 +139,10 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/LOctavioDev/backend-residencias">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOctavioDev&repo=backend-residencias&title_color=00B3FF&text_color=c9d1d9&icon_color=00B3FF&bg_color=0D1117&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LOctavioDev&repo=backend-residencias&title_color=00B3FF&text_color=c9d1d9&icon_color=00B3FF&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/LOctavioDev/test-api-fastapi">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOctavioDev&repo=test-api-fastapi&title_color=00B3FF&text_color=c9d1d9&icon_color=00B3FF&bg_color=0D1117&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LOctavioDev&repo=test-api-fastapi&title_color=00B3FF&text_color=c9d1d9&icon_color=00B3FF&bg_color=0D1117&hide_border=true" />
 </a>
 
 </div>
